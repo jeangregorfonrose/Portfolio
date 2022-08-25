@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b9ac28db.css",
+    "main.js": "/portfolio/static/js/main.99f5fdc5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/explora.png": "/portfolio/static/media/explora.2ffd63cb15eba4d3479b.png",
+    "static/media/musicfan.jpg": "/portfolio/static/media/musicfan.1ed51cc3154a779e5c8b.jpg",
+    "static/media/minesweeper.jpg": "/portfolio/static/media/minesweeper.fc43ebceca4fe9b9b00f.jpg",
+    "static/media/latinbeastinvestment.png": "/portfolio/static/media/latinbeastinvestment.1c922d278f65bc10af3c.png",
+    "static/media/armsimulator.jpg": "/portfolio/static/media/armsimulator.ae58224e8eeb169d8869.jpg",
+    "static/media/processing.jpg": "/portfolio/static/media/processing.55b010d0746245ef4cee.jpg",
+    "static/media/jean.jpg": "/portfolio/static/media/jean.7bb2d0b24ee9933965c3.jpg",
+    "static/media/rle.jpg": "/portfolio/static/media/rle.39f01ce001f26b8c0937.jpg",
+    "static/media/pagerank.jpg": "/portfolio/static/media/pagerank.21da9599db50ffa04406.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.b9ac28db.css.map": "/portfolio/static/css/main.b9ac28db.css.map",
+    "main.99f5fdc5.js.map": "/portfolio/static/js/main.99f5fdc5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9ac28db.css",
+    "static/js/main.99f5fdc5.js"
+  ]
+}
